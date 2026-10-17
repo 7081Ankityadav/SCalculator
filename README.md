@@ -1,4 +1,4 @@
-# Simple Calculator
+# SCalculator
 
 A lightweight calculator built with HTML, CSS, and vanilla JavaScript. It runs directly in a web browser and does not require any dependencies or a build step.
 
