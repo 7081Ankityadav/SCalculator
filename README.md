@@ -29,3 +29,4 @@ A lightweight calculator built with HTML, CSS, and vanilla JavaScript. It runs d
 4. Select the branch containing the project and the `/ (root)` folder, then save.
 
 GitHub Pages will provide a URL for the published calculator once deployment completes.
+# simplecalc
